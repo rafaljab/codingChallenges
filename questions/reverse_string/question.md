@@ -13,7 +13,11 @@ Ex: Given the following strings...
 
 ## Solution
 
+<details>
+  <summary>Show solution</summary>
+
 ```python
 def reverse_string(text: str):
     return text[::-1]
 ```
+</details>
