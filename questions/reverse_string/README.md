@@ -1,4 +1,5 @@
 # Reverse string
+
 ## Question
 
 This question is asked by Google. Given a string, reverse all of its characters and return the resulting string.
@@ -20,4 +21,7 @@ Ex: Given the following strings...
 def reverse_string(text: str):
     return text[::-1]
 ```
+
 </details>
+
+[Go back](../..)
