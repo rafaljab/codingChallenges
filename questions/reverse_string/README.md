@@ -23,5 +23,3 @@ def reverse_string(text: str):
 ```
 
 </details>
-
-[Go back](../..)
