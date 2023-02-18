@@ -7,3 +7,12 @@ def two_sum(nums: list[int], target: int) -> list[int]:
                     output.append(i)
                     output.append(j + i + 1)
                     return output
+
+
+def two_sum2(nums: list[int], target: int) -> list[int]:
+    for i, num in enumerate(nums):
+        try:
+            j = nums.index(target - num, i+1)
+            return [i, j]
+        except ValueError:
+            pass
