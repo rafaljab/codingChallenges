@@ -1,3 +1,4 @@
 # Questions
 
-1. [Reverse string](questions/reverse_string)
+## Daily Byte
+1. [Reverse string](daily_byte/reverse_string)

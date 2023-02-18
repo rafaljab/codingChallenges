@@ -1,6 +1,6 @@
 import pytest
 
-from questions.reverse_string.solution import reverse_string
+from daily_byte.reverse_string.solution import reverse_string
 
 
 @pytest.mark.parametrize(
