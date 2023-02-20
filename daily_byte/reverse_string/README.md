@@ -1,4 +1,4 @@
-# Reverse string
+# Reverse String
 
 ## Question
 
