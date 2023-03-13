@@ -7,6 +7,7 @@
 4. [Correct Capitalization](daily_byte/correct_capitalization)
 5. [Validate Characters](daily_byte/validate_characters)
 6. [Valid Anagram](daily_byte/valid_anagram)
+7. [Compare Keystrokes](daily_byte/compare_keystrokes)
 
 ## leetCode
 1. [Two Sum](leetcode/two_sum)
