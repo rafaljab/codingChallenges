@@ -8,6 +8,7 @@
 5. [Validate Characters](daily_byte/validate_characters)
 6. [Valid Anagram](daily_byte/valid_anagram)
 7. [Compare Keystrokes](daily_byte/compare_keystrokes)
+8. [Jewels and Stones](daily_byte/jewels_and_stones)
 
 ## leetCode
 1. [Two Sum](leetcode/two_sum)
