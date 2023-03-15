@@ -10,6 +10,7 @@
 7. [Compare Keystrokes](daily_byte/compare_keystrokes)
 8. [Jewels and Stones](daily_byte/jewels_and_stones)
 9. [Uncommon Words](daily_byte/uncommon_words)
+10. [Longest Common Prefix](daily_byte/longest_common_prefix)
 
 ## leetCode
 1. [Two Sum](leetcode/two_sum)
