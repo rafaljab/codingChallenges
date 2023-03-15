@@ -9,6 +9,7 @@
 6. [Valid Anagram](daily_byte/valid_anagram)
 7. [Compare Keystrokes](daily_byte/compare_keystrokes)
 8. [Jewels and Stones](daily_byte/jewels_and_stones)
+9. [Uncommon Words](daily_byte/uncommon_words)
 
 ## leetCode
 1. [Two Sum](leetcode/two_sum)
