@@ -12,6 +12,7 @@
 9. [Uncommon Words](daily_byte/uncommon_words)
 10. [Longest Common Prefix](daily_byte/longest_common_prefix)
 11. [Valid Palindrome with Removal](daily_byte/valid_palindrome_with_removal)
+12. [Add Binary](daily_byte/add_binary)
 
 ## leetCode
 1. [Two Sum](leetcode/two_sum)
