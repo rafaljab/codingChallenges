@@ -21,6 +21,7 @@ s = "coding", t "ingcod", return ''
 <details>
   <summary>Show solution</summary>
 
+Solution 1
 ```python
 def spot_the_difference(s: str, t: str) -> str:
     diff = set(t) - set(s)
@@ -29,5 +30,15 @@ def spot_the_difference(s: str, t: str) -> str:
     else:
         return ''
 ```
+
+Solution 2
+```python
+def spot_the_difference_2(s: str, t: str) -> str:
+    for letter in t:
+        if letter not in s:
+            return letter
+    return ''
+```
+
 
 </details>
