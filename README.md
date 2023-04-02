@@ -15,6 +15,7 @@
 12. [Add Binary](daily_byte/add_binary)
 13. [First Unique Character](daily_byte/first_unique_character)
 14. [Spot the Difference](daily_byte/spot_the_difference)
+15. [Intersection of Numbers](daily_byte/intersection_of_numbers)
 
 ## leetCode
 1. [Two Sum](leetcode/two_sum)
