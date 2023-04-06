@@ -22,3 +22,4 @@
 1. [Two Sum](leetcode/two_sum)
 2. [Add Two Numbers](leetcode/add_two_numbers)
 3. (13) [Roman To Integer](leetcode/roman_to_integer)
+4. (14) [Longest Common Prefix](daily_byte/longest_common_prefix) (DailyByte solution)
