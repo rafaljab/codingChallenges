@@ -17,6 +17,7 @@
 14. [Spot the Difference](daily_byte/spot_the_difference)
 15. [Intersection of Numbers](daily_byte/intersection_of_numbers)
 16. [Remove Adjacent Duplicates](daily_byte/remove_adjacent_duplicates)
+17. [String Permutations](daily_byte/string_permutations)
 
 ## leetCode
 1. [Two Sum](leetcode/two_sum)
